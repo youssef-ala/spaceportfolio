@@ -1,55 +1,55 @@
 export const Skill_data = [
   {
-    skill_name: "Html 5",
-    Image: "/html.png",
+    skill_name: "Git",
+    Image: "/git.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Css",
-    Image: "/css.png",
+    skill_name: "Supabase",
+    Image: "/supabase.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Java Script",
-    Image: "/js.png",
+    skill_name: "Tensorflow",
+    Image: "/tensorflow.png",
     width: 65,
     height: 65,
   },
   {
-    skill_name: "Tailwind Css",
-    Image: "/tailwind.png",
+    skill_name: "C++",
+    Image: "/c++.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "React",
-    Image: "/react.png",
+    skill_name: "ThreeJs",
+    Image: "/three.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Redux",
-    Image: "/redux.png",
+    skill_name: "Kubernetes",
+    Image: "/kubernetes.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "React Query",
-    Image: "/reactquery.png",
+    skill_name: "Vercel",
+    Image: "/vercel1.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Type Script",
-    Image: "/ts.png",
+    skill_name: "Redis",
+    Image: "/redis.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Next js 13",
-    Image: "/next.png",
+    skill_name: "Npm",
+    Image: "/npm.png",
     width: 80,
     height: 80,
   },
@@ -66,16 +66,16 @@ export const Skill_data = [
     height: 80,
   },
   {
-    skill_name: "Node js",
-    Image: "/node-js.png",
+    skill_name: "Vscode",
+    Image: "/Vscode.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Mongo db",
-    Image: "/mongodb.png",
-    width: 40,
-    height: 40,
+    skill_name: "Nest.js",
+    Image: "/nestjs.png",
+    width: 80,
+    height: 80,
   },
 
 ];
@@ -84,14 +84,17 @@ export const Socials = [
   {
     name: "Discord",
     src: "/instagram.svg",
+    link: "https://www.instagram.com/yousefalaa3/",
   },
   {
     name: "Facebook",
     src: "/facebook.svg",
+    link:"https://www.facebook.com/yousef.alaa3/",
   },
   {
     name: "Instagram",
     src: "/discord.svg",
+    link:""
   },
 ];
 
