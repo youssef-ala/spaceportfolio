@@ -16,7 +16,6 @@ const Navbar = () => {
             className="cursor-pointer hover:animate-slowspin"
           />
           <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-            {" "}
             WebChain Dev
           </span>
         </a>
@@ -24,6 +23,18 @@ const Navbar = () => {
           <div></div>
         </div>
       </div>
+    </div>
+  )
+}
+
+export default Navbar
+
+import React from 'react'
+
+const Navbar = () => {
+  return (
+    <div className='w-full h-[65px] fixed top-0 shadow-lg shadow-[#2a0e61]/50  bg-[#03001417] backdrop-blur-md z-50 px-10'>
+      
     </div>
   )
 }

@@ -1,3 +1,5 @@
+
+
 "use client";
 
 import React from "react";
@@ -50,5 +52,4 @@ const HeroContent = () => {
     </motion.div>
   );
 };
-
 export default HeroContent;
